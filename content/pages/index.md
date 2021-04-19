@@ -472,7 +472,7 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: Apollo Apartment Targu Mures
+  title: Luxurious City Center Apartment Targu Mures
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
