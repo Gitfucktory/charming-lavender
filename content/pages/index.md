@@ -53,6 +53,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
+    title: ffv
   - type: features_section
     title: What you’ll experience
     features:
