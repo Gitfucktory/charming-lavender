@@ -68,7 +68,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Hands-On Workshops
+      - title: Modern kitchen
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
