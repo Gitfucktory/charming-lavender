@@ -10,6 +10,7 @@ sections:
         url: /about
         style: primary
         has_icon: false
+        icon: instagram
     align: center
     padding_top: large
     padding_bottom: large
