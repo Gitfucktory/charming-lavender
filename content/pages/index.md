@@ -11,6 +11,7 @@ sections:
         style: primary
         has_icon: false
         icon: instagram
+        new_window: true
     align: center
     padding_top: large
     padding_bottom: large
