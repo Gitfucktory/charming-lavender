@@ -9,7 +9,7 @@ sections:
       - label: Get Your Ticket Today!
         url: /about
         style: primary
-      - label: lorem-ipsum
+      - label: Booking.com
         url: '#'
         style: link
         has_icon: false
